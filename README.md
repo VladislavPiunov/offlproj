@@ -1,6 +1,7 @@
 # offlproj
 
 Собсна, ссылочка на диск: https://drive.google.com/drive/folders/1BQDEdLSDzY_BlBL4frgD4ufR_R_2CPkC?usp=sharing 
+Ссылка на архив https://drive.google.com/drive/folders/1L7ghcErrBHmLRO1PxyTltlL1bxlohGi8?usp=sharing
 
 1) Распаковать архив в AppData/Local/ 
 2) npm i @angular/cli -g --cache MY_CACHE_FOLDER --cache-min 999999999 --no-shrinkwrap
