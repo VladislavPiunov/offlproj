@@ -13,4 +13,4 @@ npm config set cache min 999999999
 npm config shrinkwrap false 
 
 4) открыть myproj в vscode
-5) запустить проект (ng serve/npm install/run)
+5) запустить проект (ng serve/npm install)
