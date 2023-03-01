@@ -14,3 +14,7 @@ npm config shrinkwrap false
 
 4) открыть myproj в vscode
 5) запустить проект (ng serve/npm install)
+
+
+Ссылка на гугл док (Зеленко)
+https://docs.google.com/document/d/1kQRhXAR6YEUCfktx6iTbbbSn8JHgsH3x/edit?usp=sharing&ouid=113930105522333313703&rtpof=true&sd=true
