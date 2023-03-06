@@ -17,4 +17,7 @@ npm config shrinkwrap false
 
 
 Ссылка на гугл док (Зеленко)
+Отчёт
+https://docs.google.com/document/d/1n6DSygTx_6HNh_oPKw-HOiOsufp0JgkK/edit?usp=sharing&ouid=113930105522333313703&rtpof=true&sd=true
+Что дано
 https://docs.google.com/document/d/1MYgzNCRT1L3CCicf4CIWM70JsKsSO-e0/edit?usp=sharing&ouid=113930105522333313703&rtpof=true&sd=true
